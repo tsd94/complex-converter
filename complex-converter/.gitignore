@@ -1,0 +1,48 @@
+# Binaries
+*.class
+*.jar
+*.war
+*.ear
+
+# Scala specific
+*.cache
+*.log
+*.class
+*.project
+*.classpath
+*.settings/
+target/
+lib_managed/
+src_managed/
+.cache/
+.history/
+.scala_dependencies
+.scala_dependencies_2.12
+.scala_dependencies_2.13
+.scala_dependencies_3.0
+.scala_dependencies_3.1
+.scala_dependencies_3.2
+.scala_dependencies_3.3
+
+# SBT specific
+dist/
+target/
+lib_managed/
+src_managed/
+project/target/
+project/project/
+.cache/
+.history/
+lib/
+.idea/
+.DS_Store
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# MacOS
+.DS_Store
